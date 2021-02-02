@@ -1,10 +1,10 @@
 {
     "name": "hcsem/demo",
-    "type": "project",
+    "description": "test",
+    "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.6",
-        "another-vendor/package": "1.*"
+        "intervention/image": "^2.5"
     }
 }

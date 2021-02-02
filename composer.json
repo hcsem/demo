@@ -1,0 +1,7 @@
+{
+    "name": "hcsem/demo",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
